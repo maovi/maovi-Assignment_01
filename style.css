@@ -1,0 +1,143 @@
+*{
+  margin: 0;
+}
+hr{
+  border: solid black 2px;
+}
+h1{
+  text-align: center;
+  padding: 10px;
+  color: green;
+}
+h2{
+  text-align: center;
+  padding: 10px;
+  font-weight: bolder;
+  text-decoration: underline;
+  color: red;
+}
+p{
+  text-align: center;
+  padding: 5px;
+  font-size: 22px;
+}
+blockquote{
+  font-size: 22px;
+}
+#blockquote{
+  font-size: 20px;
+}
+blockquote{
+  text-align: center;
+}
+.q-heading{
+  color: firebrick;
+}
+.list-heading{
+  text-align: left;
+  margin-left: 20px;
+  color: blueviolet;
+  text-decoration: none;
+}
+.list{
+text-align: left;
+margin-left: 20px;
+font-size: 19px;
+color: green;
+}
+.table{
+  margin-left: 20px;
+  height: 320px;
+  width: 280px;
+}
+.left-div{
+  float: left;
+  max-width: 100%;
+  padding: 10px;
+}
+.middle-div{
+  float: left;
+  max-width: 100%;
+  padding: 10px;
+}
+.right-div{
+  float:left;
+  max-width: 100%;
+  padding: 10px;
+}
+.clear-div{
+  clear: both;
+}
+#poem-name{
+  text-decoration: none;
+  color: green;
+}
+pre{
+  text-align: center;
+  font-size: 18px;
+  color: crimson;
+  padding: 7px;
+  word-spacing: 1px;
+}
+a{
+  font-size: 22px;
+  color: black;
+  text-decoration: none;
+}
+
+
+
+
+.form-heading{
+  float: left;
+  margin-left:20%;
+}
+.form{
+  margin-left: 20px;
+  max-width: 1020px;
+  background-color: gainsboro;
+}
+#name{
+width: 98%;
+height: 45px;
+text-align: center;
+font-size: 15px;
+color: gray;
+}
+#email{
+  width: 98%;
+  height: 45px;
+  text-align: center;
+  font-size: 15px;
+  color: gray;
+}
+#password{
+  width: 98%;
+  height: 45px;
+  text-align: center;
+  font-size: 15px;
+  color: gray;
+}
+#r-password{
+  width: 98%;
+  height: 45px;
+  text-align: center;
+  font-size: 15px;
+  color: gray;
+}
+#register{
+  height: 50px;
+  width: 220px;
+  background-color: orange;
+  color:white;
+  font-size: 22px;
+  border-end-end-radius: 30px;
+  border-start-end-radius: 30px;
+  border-end-start-radius: 30px;
+  border-start-start-radius: 30px;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+.last-p{
+  font-size: 17px;
+}
